@@ -3,8 +3,6 @@ package com.example.model;
 public class Person {
 	//Test comment added
 	// add comment 2
-	// test adding email notification
-	// test adding email notification 2
 	String id;
 	String firstName;
 	String lastName;
